@@ -7,7 +7,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-     gem 'smartfolio_view_tool'
+gem 'smartfolio_view_tool'
 ```
 
 And then execute:
