@@ -7,7 +7,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'smartfolio_view_tool'
+     gem 'smartfolio_view_tool'
 ```
 
 And then execute:
@@ -20,7 +20,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+SmartfolioViewTool::Renderer.copyright "Boadzie Daniel", "All Rights Reserved."```
 
 ## Development
 
